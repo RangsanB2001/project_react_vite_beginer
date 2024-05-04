@@ -1,14 +1,13 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Navbar from './Navbar.tsx'
-import Branner from './Branner.tsx'
-import CardProducts from './Cards.tsx'
-import './index.css'
+import App from './App.tsx';
+import "bootstrap/dist/css/bootstrap.min.css"
+import { BrowserRouter  } from 'react-router-dom'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
-    <Navbar/>
-    <Branner/>
-    <CardProducts/>
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
   </React.StrictMode>,
 )

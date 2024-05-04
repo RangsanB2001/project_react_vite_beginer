@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "ฮาวายเอี้ยน",
+        "price": 299,
+        "imgUrl": "../../public/img-products/652ebdb302740.jpg"
+    },
+    {
+        "id": 2,
+        "name": "ซีฟู้ตทะเลรวม",
+        "price": 199,
+        "imgUrl": "../../public/img-products/6519aa1d288fd.jpg"
+    },
+    {
+        "id": 3,
+        "name": "แฮมซีตทะเลซีฟู้ต",
+        "price": 359,
+        "imgUrl": "../../public/img-products/6528476535f25.png"
+    },
+    {
+        "id": 4,
+        "name": "ขี้เมาทะเล",
+        "price": 259,
+        "imgUrl": "../../public/img-products/651c5b080dbd5.jpg"
+    },
+    {
+        "id": 5,
+        "name": "กุ้งซีตทะเลกรอบ",
+        "price": 199,
+        "imgUrl": "../../public/img-products/652ebd41bcc7c.jpg"
+    },
+    {
+        "id": 6,
+        "name": "ขี้เมารวม",
+        "price": 499,
+        "imgUrl": "../../public/img-products/652ebc9874d63.jpg"
+    }
+]

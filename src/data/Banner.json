@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "bannerName": "Welcome1",
+        "imgUrl": "../../public/img-banner/Baner_1.jpg"
+    },
+    {
+        "id": 2,
+        "bannerName": "Welcome2",
+        "imgUrl": "../../public/img-banner/Baner_2.jpg"
+    },
+    {
+        "id": 3,
+        "bannerName": "Welcome3",
+        "imgUrl": "../../public/img-banner/Baner_3.jpg"
+    }
+]
